@@ -12,7 +12,7 @@
 8. Library Management System
 9. Snake Game
 10. File Compression
-11. 
+
 ### Description
 **Calculator**: Build a simple calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
