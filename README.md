@@ -3,7 +3,7 @@
 
 ## Projects
 1. Calculator 
-2. Guess the Number
+2. Guess the Number ⚒️
 3. Hangman Game
 4. Tic Tac Toe
 5. Simple Text Editor
